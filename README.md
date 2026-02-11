@@ -23,11 +23,6 @@ This is my curated, hands-on roadmap for beginners who want to become job-ready 
 * When stuck, search, read official docs, and try smaller steps; debugging is the skill.
 * Practice consistently, not in binges; consistent small wins beat infrequent marathons.
 
----
-
-## Quick note about formatting
-
-I removed the Status column from the original table; everything else is preserved: Room Name, Difficulty, Link, Description. Links use the canonical `https://tryhackme.com/room/<slug>` format. Verify any critical links before sharing externally.
 
 ---
 
@@ -68,13 +63,9 @@ You will gain: command-line fluency, permissions, process management, text proce
 | Room Name                 | Difficulty | Link                                                                                                   | Description                                                |
 | ------------------------- | ---------: | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 | Linux Fundamentals Part 1 |       Easy | [https://tryhackme.com/room/linuxfundamentalspart1](https://tryhackme.com/room/linuxfundamentalspart1) | Terminal basics: ls, cd, files, file operators.            |
-| Linux Fundamentals Part 2 |       Easy | [https://tryhackme.com/room/linuxfundamentalspart2](https://tryhackme.com/room/linuxfundamentalspart2) | Flags, arguments, SSH access and file system interactions. |
-| Linux Fundamentals Part 3 |       Easy | [https://tryhackme.com/room/linuxfundamentalspart3](https://tryhackme.com/room/linuxfundamentalspart3) | Text editors, wget, scp, process management.               |
-| The find command          |       Easy | [https://tryhackme.com/room/thefindcommand](https://tryhackme.com/room/thefindcommand)                 | Deep dive into find; essential for CTFs and privesc.       |
 | Bash Scripting            |       Easy | [https://tryhackme.com/room/bashscripting](https://tryhackme.com/room/bashscripting)                   | Automating tasks using Bash scripts and loops.             |
 | Linux Modules             |       Easy | [https://tryhackme.com/room/linuxmodules](https://tryhackme.com/room/linuxmodules)                     | Kernel modules and how Linux extends functionality.        |
 | Linux Strength Training   |       Easy | [https://tryhackme.com/room/linuxstrengthtraining](https://tryhackme.com/room/linuxstrengthtraining)   | Practice routine to reinforce command proficiency.         |
-| Linux CLI Basics          |       Easy | [https://tryhackme.com/room/linuxclibasics](https://tryhackme.com/room/linuxclibasics)                 | Premium walkthrough for deeper CLI comfort and shortcuts.  |
 
 ---
 
@@ -91,11 +82,9 @@ You will gain: NTFS familiarity, Registry basics, UAC and Defender understanding
 | Room Name              | Difficulty | Link                                                                                                     | Description                                                |
 | ---------------------- | ---------: | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | Windows Fundamentals 1 |       Easy | [https://tryhackme.com/room/windowsfundamentals1xbx](https://tryhackme.com/room/windowsfundamentals1xbx) | Desktop, NTFS, user accounts, Task Manager.                |
-| Windows Fundamentals 2 |       Easy | [https://tryhackme.com/room/windowsfundamentals2](https://tryhackme.com/room/windowsfundamentals2)       | System config, UAC, Resource Monitor, Registry intro.      |
-| Windows Fundamentals 3 |       Easy | [https://tryhackme.com/room/windowsfundamentals3](https://tryhackme.com/room/windowsfundamentals3)       | Security management, Windows Updates, BitLocker, Defender. |
+| Windows Fundamentals 2 |       Easy | [https://tryhackme.com/room/windowsfundamentals2](https://tryhackme.com/room/windowsfundamentals2x0x)       | System config, UAC, Resource Monitor, Registry intro.      |
+| Windows Fundamentals 3 |       Easy | [https://tryhackme.com/room/windowsfundamentals3](https://tryhackme.com/room/windowsfundamentals3xzx)       | Security management, Windows Updates, BitLocker, Defender. |
 | Windows Basics         |       Easy | [https://tryhackme.com/room/windowsbasics](https://tryhackme.com/room/windowsbasics)                     | Walkthrough for modern Windows 11 environments.            |
-| Windows CLI Basics     |       Easy | [https://tryhackme.com/room/windowsclibasics](https://tryhackme.com/room/windowsclibasics)               | Interacting with the file system using cmd.exe.            |
-| PowerShell             |       Easy | [https://tryhackme.com/room/powershell](https://tryhackme.com/room/powershell)                           | Object-oriented shell used for administration and attacks. |
 
 ---
 
@@ -111,14 +100,11 @@ You will gain: packet literacy, subnetting, Wireshark/Tcpdump skills, DNS and HT
 
 | Room Name               | Difficulty | Link                                                                                                   | Description                                                 |
 | ----------------------- | ---------: | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| Networking              |       Easy | [https://tryhackme.com/room/networking](https://tryhackme.com/room/networking)                         | OSI model, TCP/IP and core services.                        |
-| Intro to LAN            |       Easy | [https://tryhackme.com/room/introtolan](https://tryhackme.com/room/introtolan)                         | LAN topologies, ARP, DHCP and local traffic.                |
 | HTTP in detail          |       Easy | [https://tryhackme.com/room/httpindetail](https://tryhackme.com/room/httpindetail)                     | Headers, verbs, status codes and request anatomy.           |
 | DNS in detail           |       Easy | [https://tryhackme.com/room/dnsindetail](https://tryhackme.com/room/dnsindetail)                       | How domains resolve to IPs, record types and behavior.      |
 | Network Traffic Basics  |       Easy | [https://tryhackme.com/room/networktrafficbasics](https://tryhackme.com/room/networktrafficbasics)     | Network Traffic Analysis and log collection fundamentals.   |
-| Introductory Networking |       Easy | [https://tryhackme.com/room/introductorynetworking](https://tryhackme.com/room/introductorynetworking) | Core networking concepts and tools overview.                |
-| What is Networking?     |       Easy | [https://tryhackme.com/room/whatisnetworking](https://tryhackme.com/room/whatisnetworking)             | Visual basics of packets and routers.                       |
-| Dumping Router Firmware |     Medium | [https://tryhackme.com/room/dumpingrouterfirmware](https://tryhackme.com/room/dumpingrouterfirmware)   | Extracting and analyzing firmware from networking hardware. |
+| Introductory Networking |       Easy | [https://tryhackme.com/room/introductorynetworking](https://tryhackme.com/room/introtonetworking) | Core networking concepts and tools overview.                |
+| Dumping Router Firmware |     Medium | [https://tryhackme.com/room/rfirmware](https://tryhackme.com/room/rfirmware)   | Extracting and analyzing firmware from networking hardware. |
 
 ---
 
@@ -140,12 +126,10 @@ You will gain: SQLi, XSS, IDOR, SSRF basics, Burp Suite workflow and vulnerabili
 | OWASP Juice Shop          |       Easy | [https://tryhackme.com/room/owaspjuiceshop](https://tryhackme.com/room/owaspjuiceshop)               | Full-spectrum vulnerable e-commerce app for practice.  |
 | Pickle Rick               |       Easy | [https://tryhackme.com/room/picklerick](https://tryhackme.com/room/picklerick)                       | CTF focusing on web enumeration and command injection. |
 | Vulnversity               |       Easy | [https://tryhackme.com/room/vulnversity](https://tryhackme.com/room/vulnversity)                     | File upload bypass to reverse shell and privesc.       |
-| SQL Injection Lab         |       Easy | [https://tryhackme.com/room/sqlinjectionlab](https://tryhackme.com/room/sqlinjectionlab)             | Dedicated environment for mastering SQLi.              |
-| Basic Pentesting          |       Easy | [https://tryhackme.com/room/basicpentesting](https://tryhackme.com/room/basicpentesting)             | Web hacking paired with Linux privilege escalation.    |
+| NoSQL Injection Lab         |       Easy | [https://tryhackme.com/room/nosqlinjectiontutorial](https://tryhackme.com/room/nosqlinjectiontutorial)             | Dedicated environment for mastering SQLi.              |
+| Basic Pentesting          |       Easy | [https://tryhackme.com/room/basicpentestingjt](https://tryhackme.com/room/basicpentestingjt)             | Web hacking paired with Linux privilege escalation.    |
 | Bolt                      |       Easy | [https://tryhackme.com/room/bolt](https://tryhackme.com/room/bolt)                                   | Authenticated Remote Code Execution on a CMS.          |
-| Upload Vulnerabilities    |       Easy | [https://tryhackme.com/room/uploadvulnerabilities](https://tryhackme.com/room/uploadvulnerabilities) | Bypass filters to upload web shells.                   |
 | Ignite                    |       Easy | [https://tryhackme.com/room/ignite](https://tryhackme.com/room/ignite)                               | Exploiting Fuel CMS for RCE.                           |
-| Walking An Application    |       Info | [https://tryhackme.com/room/walkinganapplication](https://tryhackme.com/room/walkinganapplication)   | Manual review of page source and dev tools.            |
 
 ---
 
@@ -161,12 +145,9 @@ You will gain: advanced Nmap use, Metasploit basics, brute force techniques, fuz
 
 | Room Name                | Difficulty | Link                                                                                                 | Description                                          |
 | ------------------------ | ---------: | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| Nmap Live Host Discovery |       Easy | [https://tryhackme.com/room/nmaplivehostdiscovery](https://tryhackme.com/room/nmaplivehostdiscovery) | Using ARP, ICMP and TCP to find live systems.        |
-| Nmap                     |       Easy | [https://tryhackme.com/room/nmap](https://tryhackme.com/room/nmap)                                   | NSE scripts, timing templates and firewall evasion.  |
+| Nmap Live Host Discovery |       Easy | [https://tryhackme.com/room/nmap01](https://tryhackme.com/room/nmap01) | Using ARP, ICMP and TCP to find live systems.        |
 | Metasploit: Introduction |       Easy | [https://tryhackme.com/room/metasploitintro](https://tryhackme.com/room/metasploitintro)             | Framework architecture: modules, payloads and usage. |
 | Hydra                    |       Easy | [https://tryhackme.com/room/hydra](https://tryhackme.com/room/hydra)                                 | Parallel login cracker for SSH, FTP and HTTP forms.  |
-| Burp Suite: The Basics   |       Easy | [https://tryhackme.com/room/burpsuitebasics](https://tryhackme.com/room/burpsuitebasics)             | Intercepting, modifying and replaying HTTP requests. |
-| Wireshark: The Basics    |       Easy | [https://tryhackme.com/room/wiresharkbasics](https://tryhackme.com/room/wiresharkbasics)             | Packet capture basics and filtering.                 |
 | RustScan                 |       Easy | [https://tryhackme.com/room/rustscan](https://tryhackme.com/room/rustscan)                           | High-speed port scanning alternative.                |
 | ffuf                     |       Easy | [https://tryhackme.com/room/ffuf](https://tryhackme.com/room/ffuf)                                   | Fast web fuzzer for directories and virtual hosts.   |
 | TShark                   |       Easy | [https://tryhackme.com/room/tshark](https://tryhackme.com/room/tshark)                               | Command-line Wireshark for automation.               |
@@ -189,9 +170,8 @@ You will gain: hash identification, cracking practice, encryption basics, and PK
 | Crack the hash             |       Easy | [https://tryhackme.com/room/crackthehash](https://tryhackme.com/room/crackthehash)                       | Identifying and cracking MD5, SHA and similar.   |
 | Crack The Hash Level 2     |     Medium | [https://tryhackme.com/room/crackthehashlevel2](https://tryhackme.com/room/crackthehashlevel2)           | Advanced formats and Hashcat workflows.          |
 | Cryptography for Dummies   |       Info | [https://tryhackme.com/room/cryptographyfordummies](https://tryhackme.com/room/cryptographyfordummies)   | Symmetric vs asymmetric and basic theory.        |
-| Agent Sudo                 |       Easy | [https://tryhackme.com/room/agentsudo](https://tryhackme.com/room/agentsudo)                             | CTF: steganalysis and archive password cracking. |
+| Agent Sudo                 |       Easy | [https://tryhackme.com/room/agentsudoctf](https://tryhackme.com/room/agentsudoctf)                             | CTF: steganalysis and archive password cracking. |
 | Brute It                   |       Easy | [https://tryhackme.com/room/bruteit](https://tryhackme.com/room/bruteit)                                 | Automated brute-force against web login forms.   |
-| Attacks on Encrypted Files |       Easy | [https://tryhackme.com/room/attacksonencryptedfiles](https://tryhackme.com/room/attacksonencryptedfiles) | Cracking password-protected archives and PDFs.   |
 | Encryption - Crypto 101    |       Info | [https://tryhackme.com/room/encryptioncrypto101](https://tryhackme.com/room/encryptioncrypto101)         | SSH keys, GPG and basic PKI concepts.            |
 
 ---
@@ -209,11 +189,10 @@ You will gain: systematic enumeration, SUID and service abuse, scheduled tasks e
 | Room Name            | Difficulty | Link                                                                                           | Description                                       |
 | -------------------- | ---------: | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | Linux PrivEsc        |     Medium | [https://tryhackme.com/room/linuxprivesc](https://tryhackme.com/room/linuxprivesc)             | Comprehensive Linux escalation techniques.        |
-| Windows PrivEsc      |     Medium | [https://tryhackme.com/room/windowsprivesc](https://tryhackme.com/room/windowsprivesc)         | Services, Registry and DLL abuse on Windows.      |
 | Blaster              |       Easy | [https://tryhackme.com/room/blaster](https://tryhackme.com/room/blaster)                       | Windows privesc focusing on persistence.          |
 | Ignite               |       Easy | [https://tryhackme.com/room/ignite](https://tryhackme.com/room/ignite)                         | Rooting CentOS via misconfiguration and exploits. |
 | Kenobi               |       Easy | [https://tryhackme.com/room/kenobi](https://tryhackme.com/room/kenobi)                         | Samba enumeration, SUID and path hijacking.       |
-| Sudo Security Bypass |       Easy | [https://tryhackme.com/room/sudosecuritybypass](https://tryhackme.com/room/sudosecuritybypass) | Sudo logic flaws and CVE-based techniques.        |
+| Sudo Security Bypass |       Easy | [https://tryhackme.com/room/sudovulnsbypass](https://tryhackme.com/room/sudovulnsbypass) | Sudo logic flaws and CVE-based techniques.        |
 | Common Linux Privesc |     Medium | [https://tryhackme.com/room/commonlinuxprivesc](https://tryhackme.com/room/commonlinuxprivesc) | Hands-on misconfiguration exploitation practice.  |
 
 ---
@@ -231,7 +210,7 @@ You will gain: AD enumeration, Kerberos attack techniques, lateral movement and 
 | Room Name                | Difficulty | Link                                                                                                   | Description                                                   |
 | ------------------------ | ---------: | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | Attacktive Directory     |     Medium | [https://tryhackme.com/room/attacktivedirectory](https://tryhackme.com/room/attacktivedirectory)       | Complete AD enumeration and exploitation guide.               |
-| Post-Exploitation Basics |       Easy | [https://tryhackme.com/room/postexploitationbasics](https://tryhackme.com/room/postexploitationbasics) | Maintaining access and pivoting methodologies.                |
+| Post-Exploitation Basics |       Easy | [https://tryhackme.com/room/postexploit](https://tryhackme.com/room/postexploit) | Maintaining access and pivoting methodologies.                |
 | Blue                     |       Easy | [https://tryhackme.com/room/blue](https://tryhackme.com/room/blue)                                     | Exploiting EternalBlue and SMB weaknesses.                    |
 | Ice                      |       Easy | [https://tryhackme.com/room/ice](https://tryhackme.com/room/ice)                                       | Legacy media server exploitation and RCE concepts.            |
 | CVE-2022-26923           |     Medium | [https://tryhackme.com/room/cve202226923](https://tryhackme.com/room/cve202226923)                     | Active Directory Certificate Services exploitation.           |
@@ -252,13 +231,11 @@ You will gain: log analysis, SIEM queries, disk and memory forensics, and incide
 | Room Name             | Difficulty | Link                                                                                               | Description                                     |
 | --------------------- | ---------: | -------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | First Shift CTF       |       Easy | [https://tryhackme.com/room/first-shift-ctf](https://tryhackme.com/room/first-shift-ctf)           | Blue team scenarios simulating a SOC shift.     |
-| Digital Footprint     |       Easy | [https://tryhackme.com/room/digitalfootprint](https://tryhackme.com/room/digitalfootprint)         | OSINT challenge for tracking online presence.   |
-| The Phishing Pond     |       Easy | [https://tryhackme.com/room/thephishingpond](https://tryhackme.com/room/thephishingpond)           | Analyzing email headers and malicious links.    |
-| Splunk: The Basics    |       Easy | [https://tryhackme.com/room/splunkbasics](https://tryhackme.com/room/splunkbasics)                 | Searching and visualizing data in Splunk.       |
+| Digital Footprint     |       Easy | [https://tryhackme.com/room/osintchallengeiv](https://tryhackme.com/room/osintchallengeiv)         | OSINT challenge for tracking online presence.   |
+| The Phishing Pond     |       Easy | [https://tryhackme.com/room/phishingpond](https://tryhackme.com/room/phishingpond)           | Analyzing email headers and malicious links.    |
+| Splunk: The Basics    |       Easy | [https://tryhackme.com/room/splunkbasics](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)                 | Searching and visualizing data in Splunk.       |
 | Investigating Windows |       Easy | [https://tryhackme.com/room/investigatingwindows](https://tryhackme.com/room/investigatingwindows) | Identifying artifacts of compromise on Windows. |
 | Forensics             |     Medium | [https://tryhackme.com/room/forensics](https://tryhackme.com/room/forensics)                       | Disk forensics and file analysis methodology.   |
-| Autopsy               |     Medium | [https://tryhackme.com/room/autopsy](https://tryhackme.com/room/autopsy)                           | Using Autopsy for drive analysis.               |
-| Volatility            |     Medium | [https://tryhackme.com/room/volatility](https://tryhackme.com/room/volatility)                     | Memory forensics: analyzing raw memory images.  |
 
 ---
 
@@ -278,8 +255,8 @@ You will gain: assembly basics, static and dynamic analysis, Ghidra and Radare2 
 | CC: Ghidra           |     Medium | [https://tryhackme.com/room/ccghidra](https://tryhackme.com/room/ccghidra)                       | Introduction to Ghidra for static analysis.           |
 | CC: Radare2          |     Medium | [https://tryhackme.com/room/ccradare2](https://tryhackme.com/room/ccradare2)                     | Command-line reverse engineering basics.              |
 | Reverse Engineering  |     Medium | [https://tryhackme.com/room/reverseengineering](https://tryhackme.com/room/reverseengineering)   | Practice cracking protections on binaries.            |
-| Malware Introductory |       Easy | [https://tryhackme.com/room/malwareintroductory](https://tryhackme.com/room/malwareintroductory) | Safe methodology for malware analysis.                |
-| Reversing ELF        |       Easy | [https://tryhackme.com/room/reversingelf](https://tryhackme.com/room/reversingelf)               | Cracking Linux executables, CTF style.                |
+| Malware Introductory |       Easy | [https://tryhackme.com/room/malmalintroductory](https://tryhackme.com/room/malmalintroductory) | Safe methodology for malware analysis.                |
+| Reversing ELF        |       Easy | [https://tryhackme.com/room/reverselfiles](https://tryhackme.com/room/reverselfiles)               | Cracking Linux executables, CTF style.                |
 
 ---
 
@@ -295,15 +272,15 @@ You will gain: structured attack methodology, troubleshooting, and the ability t
 
 | Room Name                 | Difficulty | Link                                                                                                   | Description                                          |
 | ------------------------- | ---------: | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| RootMe                    |       Easy | [https://tryhackme.com/room/rootme](https://tryhackme.com/room/rootme)                                 | Classic web exploitation and Linux privesc practice. |
-| Simple CTF                |       Easy | [https://tryhackme.com/room/simplectf](https://tryhackme.com/room/simplectf)                           | CMS exploit, SSH login and Vim privesc.              |
-| Bounty Hacker             |       Easy | [https://tryhackme.com/room/bountyhacker](https://tryhackme.com/room/bountyhacker)                     | FTP enumeration and brute force practice.            |
-| Love at First Breach 2026 |     Medium | [https://tryhackme.com/room/loveatfirstbreach2026](https://tryhackme.com/room/loveatfirstbreach2026)   | Advanced track CTF challenge.                        |
+| RootMe                    |       Easy | [https://tryhackme.com/room/rootme](https://tryhackme.com/room/rrootme)                                 | Classic web exploitation and Linux privesc practice. |
+| Simple CTF                |       Easy | [https://tryhackme.com/room/easyctf](https://tryhackme.com/room/easyctf)                           | CMS exploit, SSH login and Vim privesc.              |
+| Bounty Hacker             |       Easy | [https://tryhackme.com/room/cowboyhacker](https://tryhackme.com/room/cowboyhacker)                     | FTP enumeration and brute force practice.            |
+| Love at First Breach 2026 |     Medium | [https://tryhackme.com/room/lafbctf2026-advanced](https://tryhackme.com/room/lafbctf2026-advanced)   | Advanced track CTF challenge.                        |
 | Wgel CTF                  |       Easy | [https://tryhackme.com/room/wgelctf](https://tryhackme.com/room/wgelctf)                               | Exfiltration via wget and sudo abuse.                |
 | LazyAdmin                 |       Easy | [https://tryhackme.com/room/lazyadmin](https://tryhackme.com/room/lazyadmin)                           | CMS enumeration and backup script exploitation.      |
 | Advent of Cyber 2025 Prep |       Easy | [https://tryhackme.com/room/adventofcyberpreptrack](https://tryhackme.com/room/adventofcyberpreptrack) | Warm-up tasks across domains.                        |
-| Mr Robot CTF              |     Medium | [https://tryhackme.com/room/mrrobotctf](https://tryhackme.com/room/mrrobotctf)                         | Wordpress exploitation and hash cracking.            |
-| Agent Sudo                |       Easy | [https://tryhackme.com/room/agentsudo](https://tryhackme.com/room/agentsudo)                           | User-Agent tricks and zip cracking.                  |
+| Mr Robot CTF              |     Medium | [https://tryhackme.com/room/mrrobot](https://tryhackme.com/room/mrrobot)                         | Wordpress exploitation and hash cracking.            |
+| Agent Sudo                |       Easy | [https://tryhackme.com/room/agentsudoctf](https://tryhackme.com/room/agentsudoctf)                           | User-Agent tricks and zip cracking.                  |
 
 ---
 
@@ -322,7 +299,6 @@ You will gain: breadth, seasonal challenge experience, and quick problem-solving
 | Advent of Cyber 2024 |       Easy | [https://tryhackme.com/room/adventofcyber2024](https://tryhackme.com/room/adventofcyber2024) | 24 daily challenges covering all domains.      |
 | Advent of Cyber 2023 |       Easy | [https://tryhackme.com/room/adventofcyber2023](https://tryhackme.com/room/adventofcyber2023) | Archive of daily beginner challenges.          |
 | Android Hacking 101  |     Medium | [https://tryhackme.com/room/androidhacking101](https://tryhackme.com/room/androidhacking101) | Exploiting ADB, APKs and Android basics.       |
-| Git Happens          |     Medium | [https://tryhackme.com/room/githappens](https://tryhackme.com/room/githappens)               | Finding exposed .git repositories and secrets. |
 | OhSINT               |       Easy | [https://tryhackme.com/room/ohsint](https://tryhackme.com/room/ohsint)                       | OSINT challenge using images and metadata.     |
 
 ---
